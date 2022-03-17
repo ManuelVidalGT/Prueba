@@ -1,17 +1,17 @@
 {
   "Usuario":[
-    "Manuel",
-    "Lorena",
-    "Jorge"
+    Manuel,
+    Lorena,
+    Jorge
     ]
   "ValorUsuario":[
-    "111",
-    "222",
-    "333"
+    111,
+    222,
+    333
     ]
   "Contraseña":[
-    "111",
-    "222",
-    "333"
+    111,
+    222,
+    333
     ]
 }
