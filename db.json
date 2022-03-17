@@ -1,9 +1,5 @@
 {
-  "Usuario":[
-    "Manuel",
-    "Lorena",
-    "Jorge"
-    ],
+ 
   "ValorUsuario":[
     "E111",
     "E222",
@@ -13,5 +9,5 @@
     "E111",
     "E222",
     "E333"
-    ],
+    ]
 }
