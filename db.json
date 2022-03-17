@@ -1,18 +1,15 @@
 {
-  "Usuario": 
-    [
+  "Usuario":[
     "Manuel",
     "Lorena",
     "Jorge"
     ]
-  "ValorUsuario":
-    [
+  "ValorUsuario":[
     "111",
     "222",
     "333"
     ]
-  "Contraseña": 
-    [
+  "Contraseña":[
     "111",
     "222",
     "333"
